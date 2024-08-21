@@ -5,3 +5,5 @@ __pycache__/*
 rna.ps
 *.arnie
 dist/*
+build
+*.egg-info
